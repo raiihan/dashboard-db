@@ -1,0 +1,99 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Anol",
+      "email": "anol@gmail.com",
+      "password": "12345"
+    },
+    {
+      "name": "Raihan",
+      "email": "ab@a.com",
+      "password": "12345678",
+      "id": 2
+    },
+    {
+      "name": "Raihan",
+      "email": "rahathosen748@gmail.com",
+      "password": "12345678",
+      "id": 4
+    },
+    {
+      "name": "a",
+      "email": "aadf@h.oc",
+      "password": "12345678",
+      "id": 5
+    },
+    {
+      "name": "Amir",
+      "email": "ab3@a.com",
+      "password": "12345678",
+      "id": 6
+    }
+  ],
+  "lists": [
+    {
+      "id": 1,
+      "name": "Oppo 7",
+      "brand": "Oppo",
+      "unitPrice": "10000",
+      "quantity": 25
+    },
+    {
+      "id": 2,
+      "name": "C2",
+      "brand": "Nokia",
+      "unitPrice": "1900",
+      "quantity": 22
+    },
+    {
+      "id": 3,
+      "name": "Maximus M2",
+      "brand": "Maximus",
+      "unitPrice": "13000",
+      "quantity": 16
+    },
+    {
+      "id": 4,
+      "name": "Galaxy M50",
+      "brand": "Samsung",
+      "unitPrice": "18000",
+      "quantity": 14
+    },
+    {
+      "id": 5,
+      "name": "Realme C20",
+      "brand": "Realme",
+      "unitPrice": "22500",
+      "quantity": 29
+    },
+    {
+      "id": 6,
+      "name": "Vivo 220",
+      "brand": "Vivo",
+      "unitPrice": "15600",
+      "quantity": 9
+    },
+    {
+      "name": "Oppo S5",
+      "brand": "Oppo",
+      "unitPrice": "25000",
+      "quantity": "20",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "name": "Redmi 9",
+      "brand": "Xaomi",
+      "unitPrice": "17000",
+      "quantity": 25
+    },
+    {
+      "id": 9,
+      "name": "Narzo 20",
+      "brand": "Realme",
+      "unitPrice": "12500",
+      "quantity": 22
+    }
+  ]
+}
